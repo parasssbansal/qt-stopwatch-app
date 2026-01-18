@@ -1,0 +1,17 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator files
+.qtcreator/
+*.user
+*.pro.user
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
